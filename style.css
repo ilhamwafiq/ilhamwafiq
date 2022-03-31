@@ -1,0 +1,20 @@
+*{padding:0; margin:0;}
+body{background: #27ae60; font-family: arial}
+header{background: #3498db; width: 800px; margin: auto; padding: 20px; color: #f1c40f}
+menu{background: #2c3e50; width: 800px; margin: auto; padding:20px;}
+menu a{color: white; text-decoration: none; margin:0 20px 0 0;}
+menu a:hover{text-decoration: underline;}
+article{background: #95a5a6; width: 800px; margin: auto; padding: 20px; overflow: hidden}
+article img{float: left; margin: 10px 10px 10px 0}
+article h1{margin:0 0 20px}
+article p{line-height: 25px; margin: 0 0 30px 0}
+.centerh1{text-align: center}
+.product{float:left; width: 200px}
+.product img{width: 198px}
+.product p{text-align: center}
+input[type='text']{width: 780px; height: 30px; margin:0 0 20px} 
+textarea{width: 780px; height: 100px; resize:none; margin:0 0 20px}
+input[type='submit']{width: 100px; height: 30px}
+footer{background: #2c3e50; width: 800px; margin: auto; padding: 20px}
+footer p{color: white}
+menu{}
